@@ -1,0 +1,7 @@
+## This file may contain any number of lines of the form
+## string [tab] new_string [[tab] probability]
+## empty lines and lines starting with '#' are ignored.
+
+Zusatzinfo	additional info
+
+Wahrscheinlichkeitsdemo	probability demonstration	0.2
